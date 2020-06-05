@@ -1,3 +1,3 @@
 Predicting Bike Rentals.
 
-Guided project from Dataquest.  Backbone is comparing the different machine learning models, very basic.  I added on to the project to explore different parameters and columns.
+Guided project from Dataquest.  Purpose is comparing a few machine learning models, very basic. In the project we look at bike rental data from 2011 - 2012 and make predictions on rentals.  The models the project compares are Linear Regression, Decision Tree Regression, and Random Forest Regression.  There is basic data cleaning and basic feature engineering with minimal parameter optimization.  
